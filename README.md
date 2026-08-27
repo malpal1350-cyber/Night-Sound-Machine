@@ -1,14 +1,15 @@
 # Night-Machine
 This is for those who don't like most boring sound machines or would like to be able to fully customize their experience. All you need to do is download the app (recommended: use a Raspberry Pi 4 or newer for low power usage, 4 GB of RAM, and at least 64 GB of storage).
 
-Notice when downloading. There is a PWA option, [which is linked](https://night-machine--malpal1350.replit.app/), so you can download directly from the browser. If you just use it on the website and not download it, you will have reliability issues due to strict browser limits, especially for audio, so use for testing only. If for some reason you can't download from the browser (only browsers like Chrome and Chromium support PWA downloading), you can download the zip file. The app, when downloaded onto your device, will be under a GB.
+Notice when downloading. There is a PWA option, [which is linked](https://night-machine--malpal1350.replit.app/), so you can download directly from the browser. If you just use it on the website and not download it, you will have reliability issues due to strict browser limits, especially for audio, so use on the browser for testing only. If for some reason you can't download from the browser (only browsers like Chrome and Chromium support PWA downloading), you can download the zip file. The app, when downloaded onto your device, will be under a GB.
 
 To start, create groups, upload audio files, and click Start. You can even use this as a regular audio player. And there are many other features, like an alarm. Enjoy!!
 
-Create groups: choose a name, color, icon, and whether it is a main sound or an effect. Main sounds constantly play, for example, a 3-minute file of crickets, and an effect group is for something like thunder. You can have multiple files, and they will be picked at random. You can choose when this happens
-. Also, you can choose to limit, for example, after 5 plays or after a certain amount of time (fixed or random).
+Create groups: choose a name, color, icon, and whether it is a main group, effect group, etc. Main sounds constantly play, for example, a 3-minute file of crickets, and an effect group is for something like thunder. You can have multiple files on an effect group, and they will be picked at random. You can choose when this happens. 
 
-Notice you have to find or make your own audio files (.mp3 or .wav). You can choose what you want so you don't get unexpected sounds.
+Also, you can choose to limit, for example, after 5 plays or after a certain amount of time (fixed or random).
+
+Notice you have to find or make your own audio files (.mp3 or .wav). You can choose what you want; if you download from the web, listen to the audio first so you don't get unexpected sounds.
 
 If you find a sound file you like, for example, a cricket sound, but it has a small cut at the end, use a free software called Audacity to cut that pause so the audio file, when looped, doesn't have that pause.
 
