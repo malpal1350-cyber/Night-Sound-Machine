@@ -1,0 +1,11 @@
+- [Night Sound Machine — dim mode & prefs architecture](night-sound-machine-dim-mode.md) — dim state, wakeup logic, prefs schema for nightDimEnabled/nightDimDelaySecs/nightDimColor
+- [Night Sound Machine — icon picker](night-sound-machine-icon-picker.md) — GROUP_ICONS, GROUP_ICON_MAP, iconForGroup, iconKeyForGroup; iconKeyForGroup required for edit pre-population
+- [Night Sound Machine — saved presets & SpinnerField](night-sound-machine-presets.md) — SAVED_TIMERS_KEY/SAVED_ALARMS_KEY localStorage, SpinnerField component, preset chip UI pattern
+- [Night Sound Machine — music playback lifecycle](night-sound-machine-music-playback.md) — playback needs separate element and play-request generations to reject stale browser audio events safely
+- [Night Sound Machine — concurrent main groups](night-sound-machine-concurrent-main-groups.md) — enabled main groups loop together; converting a group also converts every file role
+- [Night Sound Machine — Start/Run/Stop sequences](night-sound-machine-start-stop-sequences.md) — independent staged audio lifecycle with overlap progress, session-chance, and cleanup rules
+- [Night Sound Machine — group interactions](night-sound-machine-group-interactions.md) — session-start rolls and graceful cross-group suppression rules
+- [Night Sound Machine — Preferences sections](night-sound-machine-preferences-sections.md) — Preferences opens to Night Display and exposes Night Display, ScreenSaver, and App Settings in the sidebar only while active
+- [Night Sound Machine — ScreenSaver color rules](night-sound-machine-screensaver-color-rules.md) — local custom colors, weekday rules, and cycle precedence with bounded selections
+- [Night Sound Machine — OS display dimming](night-sound-machine-os-display-dimming.md) — browser-safe handoff to an optional installed desktop host for display sleep
+- [Night Sound Machine — PWA cache recovery](night-sound-machine-pwa-cache-recovery.md) — await service-worker cache writes and use the non-destructive repair URL for stale Pi installs
