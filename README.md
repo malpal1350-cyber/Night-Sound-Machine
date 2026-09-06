@@ -78,11 +78,13 @@ Download the newest ZIP from GitHub.
 Extract it into a new folder.
 Run pnpm install again.
 Start the app using the instructions above.
-Browser data normally remains associated with http://localhost:3131. Continue using the same address and port to retain locally stored settings.
+Browser data normally remains associated with http://localhost:3131.
+Continue using the same address and port to retain locally stored settings.
 
 Troubleshooting
 If pnpm is not recognized, close and reopen the terminal after installing it.
 
 If port 3131 is already in use, stop the other program using that port and start Night Sound Machine again.
 
-Do not open index.html directly from the extracted folder. Night Sound Machine must be started with the provided command so browser storage, audio, and offline features work correctly.
+Do not open index.html directly from the extracted folder. Night Sound Machine must be started with
+the provided command so browser storage, audio, and offline features work correctly.
