@@ -1,6 +1,8 @@
 # Night-Machine
 This is for those who don't like most boring sound machines or would like to be able to fully customize their experience. All you need to do is download the app. Recommended specs: use a Raspberry Pi 4 or newer for low power usage, 2 GB of RAM minimum (4 GB recommended), and at least 32 GB of storage (64 GB recommended).
 
+here is a subredit to talk about the app https://www.reddit.com/r/NightSoundMachine/s/nBNVclbFoh
+
 Donations would be appreciated; [Click the link for my Cash App, Thank you to those who donate and support this project and I hope you all enjoy! https://cash.app/$IGGGames](https://cash.app/$IGGGames)
 
 Note when downloading. There is a PWA option, [which is linked](https://night-machine--malpal1350.replit.app/), so you can download directly from the browser. If you just use it on the website and don't download it, you will have reliability issues due to strict browser limits, especially for audio, so use it in the browser for testing only. If for some reason you can't download from the browser (only browsers like Chrome and Chromium support PWA downloading), you can download the zip file. The app, when downloaded onto your device, will be under a GB.
