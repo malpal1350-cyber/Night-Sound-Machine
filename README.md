@@ -23,7 +23,7 @@ The music player is just a basic audio player with playlists, a timer to end, an
 
 You can have your session start manually, with a timer, or at a specific time. To end the session, you can end it manually, with a timer, or with an alarm. For ease of use, you can save custom timers and alarms so you only have to click 1 or 2 times to change an alarm instead of hassling to change values. (Make sure to add an alarm file in the preferences menu; otherwise, the session will auto-end without giving you a snooze option)
 
-[Website Link](https://night-machine--malpal1350.replit.app/)
+[Website Link for PWA Downloading: https://night-machine--malpal1350.replit.app/](https://night-machine--malpal1350.replit.app/)
 
 My setup: I have a Raspberry Pi 5 with 4GB of RAM and 128GB of storage running ubuntu os. i use a 7in made for raspberry pi 5 touch screen and if i need to i have a wireless mouse i can quickly pull out of my night stand if i need it.
 
@@ -41,7 +41,7 @@ Night Sound Machine runs locally in your browser. Your sounds, preferences, sche
 Install the following before starting:
 - [Node.js 22 LTS](https://nodejs.org/)
 - pnpm:
-```bash
+  ```bash
 npm install --global pnpm
 
 WINDOWS
@@ -92,6 +92,8 @@ Browser data normally remains associated with http://localhost:3131.
 Continue using the same address and port to retain locally stored settings.
 
 Troubleshooting
+
+For
 If pnpm is not recognized, close and reopen the terminal after installing it.
 
 If port 3131 is already in use, stop the other program using that port and start Night Sound Machine again.
