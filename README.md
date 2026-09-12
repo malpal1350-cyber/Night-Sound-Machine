@@ -7,6 +7,18 @@ Here is a YouTube video preview: https://youtu.be/gJUTFHntsTs
 
 Donations would be appreciated. [Click the link for my Cash App. Thank you to those who donate and support this project, and I hope you all enjoy! https://cash.app/$IGGGames](https://cash.app/$IGGGames)
 
+Features:
+- Weather
+- ScreenSaver
+- Games
+- Multiple sounds (and sound effects) can play at once, better than most sound machines, which can only play one sound at a time.
+- Music Player
+- Flashlight for night mode
+- Schedule Start
+- Alarm
+- Offline Pro user optimized
+- Tons of customizability
+
 Note when downloading. There is a PWA option, [which is linked](https://night-machine--malpal1350.replit.app/), so you can download directly from the browser. If you just use it on the website and don't download it, you will have reliability issues due to strict browser limits, especially for audio, so use it in the browser for testing only. If for some reason you can't download from the browser (only browsers like Chrome and Chromium support PWA downloading), you can download the zip file. The app, when downloaded onto your device, will be under a GB.
 
 To start, create groups, upload audio files, adjust group settings and profiles, and click Start. You can even use this as a regular audio player. And there are many other features, like an alarm. Enjoy!!
