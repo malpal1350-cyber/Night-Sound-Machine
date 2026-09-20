@@ -1,4 +1,11 @@
 # Night-Machine
+TEMPORARY NOTICE FOR ALL USERS!!! THE APP IS NOT A FULL DESKTOP APP. THE PWA OPTION (DOWNLOAD FROM THE WEBSITE LINK) IS CURRENTLY THE BEST WAY TO DOWNLOAD THE APP. I HOPEFULLY, IN THE NEAR FUTURE, TO HAVE A QUICK, EASY WAY TO DOWNLOAD THE FULL DESKTOP APP WITHOUT NEEDING DECENT COMPUTER KNOWLEDGE. THE PWA OPTION, SINCE IT'S TECHNICALLY A BROWSER APP, DOES NOT SUPPORT ALL THE FEATURES LIKE WIRELESS CONTROLS (HOPEFULLY GET TO ACTUALLY WORKING IN THE FUTURE) AND SCREEN SLEEP (MAINLY FOR LINUX). 
+
+BECAUSE I DON'T HAVE THE BEST COMPUTER KNOWLEDGE, I DON'T REALLY KNOW HOW TO MAKE THIS APP A FULL DESKTOP APP
+
+(Sorry for the all caps, but I need everyone to know this. All current users should not have an issue if you already have the PWA option or the other option. I do plan on removing the 2 app-running options for a full desktop app, meaning PWA won't work for new users when I finally get a working full desktop app in the future)
+
+
 This is for those who don't like most boring sound machines or would like to be able to fully customize their experience. All you need to do is download the app. Recommended specs: use a Raspberry Pi 4 or newer for low power usage, 2 GB of RAM minimum (4 GB recommended), and at least 32 GB of storage (64 GB recommended).
 
 Here is a subreddit to talk about the app: https://www.reddit.com/r/NightSoundMachine/s/nBNVclbFoh
