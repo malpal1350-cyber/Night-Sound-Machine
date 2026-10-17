@@ -6,7 +6,7 @@ BECAUSE I DON'T HAVE THE BEST COMPUTER KNOWLEDGE, I DON'T REALLY KNOW HOW TO MAK
 (Sorry for the all caps, but I need everyone to know this. All current users should not have an issue if you already have the PWA option or the other option. I do plan on removing the 2 app-running options for a full desktop app, meaning PWA won't work for new users when I finally get a working full desktop app in the future)
 
 
-This is for those who don't like most boring sound machines or would like to be able to fully customize their experience. All you need to do is download the app. Recommended specs: use a Raspberry Pi 4 or newer for low power usage, 2 GB of RAM minimum (4 GB recommended), and at least 32 GB of storage (64 GB recommended).
+This is for those who don't like most boring sound machines or would like to be able to fully customize their experience. All you need to do is download the app. Recommended specs: use a Raspberry Pi 4 or newer for low power usage, 2 GB of RAM minimum (4 GB recommended), and at least 64 GB of storage (128 GB recommended).
 
 Here is a subreddit to talk about the app: https://www.reddit.com/r/NightSoundMachine/s/nBNVclbFoh
 
@@ -25,6 +25,7 @@ Features:
 - Alarm
 - Offline Pro user optimized
 - Tons of customizability
+- Sound Circle (be able to upload your own sounds for users to use, coming in a future update)
 
 Note when downloading. There is a PWA option, [which is linked](https://night-machine--malpal1350.replit.app/), so you can download directly from the browser. If you just use it on the website and don't download it, you will have reliability issues due to strict browser limits, especially for audio, so use it in the browser for testing only. If for some reason you can't download from the browser (only browsers like Chrome and Chromium support PWA downloading), you can download the zip file. The app, when downloaded onto your device, will be under a GB.
 
